@@ -37,5 +37,24 @@
         "description": "Live Sport Streaming",
         "url": "https://github.com/infinittv/yzcloud/raw/main/packs/TimefourTv.cs3",
         "name": "Time4Tv"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=arlionztv.click",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/infinittv/yzcloud",
+        "fileSize": 13531,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "YZ"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "ArabLionz",
+        "url": "https://github.com/infinittv/yzcloud/raw/main/packs/ArabLionz.cs3",
+        "name": "ArabLionz"
     }
   ]
