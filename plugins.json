@@ -1,0 +1,41 @@
+[{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=anime4up.tv",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/infinittv/yzcloud",
+        "fileSize": 15389,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "YZ"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "Others"
+        ],
+        "version": 6,
+        "internalName": "Anime4up",
+        "description": "Arabic Sub Anime",
+        "url": "https://github.com/infinittv/yzcloud/raw/main/packs/Anime4up.cs3",
+        "name": "Anime4up"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=time4tv.stream",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/infinittv/yzcloud",
+        "fileSize": 21741,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "YZ"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 14,
+        "internalName": "Time4Tv",
+        "description": "Live Sport Streaming",
+        "url": "https://github.com/infinittv/yzcloud/raw/main/packs/TimefourTv.cs3",
+        "name": "Time4Tv"
+    }
+  ]
