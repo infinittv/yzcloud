@@ -76,25 +76,5 @@
         "description": "Arabic Live Sport Streaming",
         "url": "https://github.com/infinittv/yzcloud/raw/main/packs/Dlhd.cs3",
         "name": "Live-Tv"
-    },
-    {
-        "iconUrl": "https://i.pinimg.com/originals/49/bc/b6/49bcb62f4b6fc83ea62e3900289893cb.jpg",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/infinittv/yzcloud",
-        "fileSize": 21741,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "YZ"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "Phub",
-        "description": "Adult Videos (18)",
-        "url": "https://github.com/infinittv/yzcloud/raw/main/packs/Pornhub.cs3",
-        "name": "PHub"
     }     
   ]
