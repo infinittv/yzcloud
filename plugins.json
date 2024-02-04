@@ -83,12 +83,13 @@
         "repositoryUrl": "https://github.com/infinittv/yzcloud",
         "fileSize": 21741,
         "status": 1,
-        "language": "ar",
+        "language": "en",
         "authors": [
             "YZ"
         ],
         "tvTypes": [
-            "Live"
+            "TvSeries",
+            "Movie"
         ],
         "version": 1,
         "internalName": "Phub",
