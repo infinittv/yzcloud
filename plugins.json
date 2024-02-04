@@ -13,7 +13,7 @@
             "AnimeMovie",
             "Others"
         ],
-        "version": 6,
+        "version": 1,
         "internalName": "Anime4up",
         "description": "Arabic Sub Anime",
         "url": "https://github.com/infinittv/yzcloud/raw/main/packs/Anime4up.cs3",
@@ -32,7 +32,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 14,
+        "version": 1,
         "internalName": "Time4Tv",
         "description": "Live Sport Streaming",
         "url": "https://github.com/infinittv/yzcloud/raw/main/packs/TimefourTv.cs3",
@@ -54,6 +54,7 @@
         ],
         "version": 1,
         "internalName": "ArabLionz",
+        "description": "Movies & Series with Arabic Subs",      
         "url": "https://github.com/infinittv/yzcloud/raw/main/packs/ArabLionz.cs3",
         "name": "ArabLionz"
     }
