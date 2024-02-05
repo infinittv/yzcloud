@@ -95,24 +95,5 @@
         "description": "Watch Played Match Reviews",            
         "url": "https://github.com/infinittv/yzcloud/raw/main/packs/btolat.cs3",
         "name": "MatchReview"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://3kora.syrialive.online&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/infinittv/yzcloud",
-        "fileSize": 15379,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "YZ"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 2,
-        "internalName": "Syrialive",
-        "description": "Watch Matches Online",                        
-        "url": "https://github.com/infinittv/yzcloud/raw/main/packs/syriatv.cs3",
-        "name": "Syrialive"
-    }     
+    }    
   ]
