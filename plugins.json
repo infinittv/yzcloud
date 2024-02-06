@@ -95,5 +95,23 @@
         "description": "Watch Played Match Reviews",            
         "url": "https://github.com/infinittv/yzcloud/raw/main/packs/btolat.cs3",
         "name": "MatchReview"
-    }    
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=invidious.io&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/infinittv/yzcloud",
+        "fileSize": 12963,
+        "status": 1,
+        "authors": [
+            "YZ"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 3,
+        "internalName": "InvidiousProvider",
+        "description": "Watch content from any invidious instance",
+        "url": "https://raw.githubusercontent.com/recloudstream/extensions/builds/InvidiousProvider.cs3",
+        "name": "InvidiousProvider"
+    }
   ]
