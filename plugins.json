@@ -85,26 +85,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/infinittv/yzcloud",
         "fileSize": 21741,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "YZ"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 1,
-        "internalName": "Live-Tv",
-        "description": "Arabic Live Sport Streaming",
-        "url": "https://github.com/infinittv/yzcloud/raw/main/packs/Dlhd.cs3",
-        "name": "Live-Tv"
-    },
-    {
-        "iconUrl": "https://th.bing.com/th/id/R.df499fa76accf7ae7bed98ba56b3190d?rik=6dhdd9oEq%2f0qbQ&pid=ImgRaw&r=0",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/infinittv/yzcloud",
-        "fileSize": 21741,
-        "status": 1,
+        "status": 0,
         "language": "ar",
         "authors": [
             "YZ"
@@ -116,7 +97,7 @@
         "internalName": "Syria Live",
         "description": "Online Matches with Arabic Comentar. Works only when Match is live",
         "url": "https://github.com/infinittv/yzcloud/raw/main/packs/syriatv.cs3",
-        "name": "Syria Lice"
+        "name": "Syria Live"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.btolat.com",
