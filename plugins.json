@@ -20,6 +20,28 @@
         "name": "Anime4up"
     },
     {
+        "iconUrl": "https://png.pngtree.com/png-clipart/20210307/ourlarge/pngtree-film-and-television-shooting-neon-light-effect-film-png-image_3015814.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/infinittv/yzcloud",
+        "fileSize": 21741,
+        "status": 1,
+        "language": "en,ar",
+        "authors": [
+            "YZ"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "SoraStream",
+        "description": "#1 best Series/Movies Extension",
+        "url": "https://github.com/infinittv/yzcloud/raw/main/packs/SoraStream.cs3",
+        "name": "SoraStream"
+    },    
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=time4tv.stream",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/infinittv/yzcloud",
